@@ -2,7 +2,10 @@
   "id": "ignitemia",
   "version": "0.0.1",
   "name": "IgniteMIA",
-  "authors": "BajaBlast",
+  "authors": [
+    "BajaBlast"
+    ],
+  "source": "https://github.com/BajaBlast-US/Ignite-For-Mia",
   "mixins": [
     "mixins.example.core.json"
   ]
