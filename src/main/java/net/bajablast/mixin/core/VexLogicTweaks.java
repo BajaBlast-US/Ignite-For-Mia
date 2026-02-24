@@ -1,4 +1,8 @@
 package net.bajablast.mixin.core;
 
-public class VexLogicTweaks {
+import net.minecraft.world.entity.monster.Vex;
+import org.spongepowered.asm.mixin.Mixin;
+
+@Mixin(Vex)
+public abstract class VexLogicTweaks {
 }
