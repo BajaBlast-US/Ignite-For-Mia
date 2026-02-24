@@ -1,9 +1,9 @@
 {
   "id": "ignitemia",
   "version": "0.0.1",
+  "name": "IgniteMIA",
+  "authors": "BajaBlast",
   "mixins": [
-    "mixins.example.core.json",
-    "net.bajablast.mixin.core.MixinCraftServer",
-    "net.bajablast.mixin.core.MixinSimpleCommandMap"
+    "mixins.example.core.json"
   ]
 }
