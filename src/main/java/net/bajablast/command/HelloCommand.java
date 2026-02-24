@@ -22,7 +22,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.example.command;
+package net.bajablast.command;
 
 import org.bukkit.command.CommandSender;
 import org.bukkit.command.defaults.BukkitCommand;

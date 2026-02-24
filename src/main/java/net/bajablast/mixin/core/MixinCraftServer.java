@@ -22,7 +22,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.example.mixin.core;
+package net.bajablast.mixin.core;
 
 import java.util.logging.Logger;
 import org.bukkit.craftbukkit.CraftServer;

@@ -22,9 +22,9 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.example.mixin.core;
+package net.bajablast.mixin.core;
 
-import com.example.command.HelloCommand;
+import net.bajablast.command.HelloCommand;
 import org.bukkit.command.Command;
 import org.bukkit.command.SimpleCommandMap;
 import org.spongepowered.asm.mixin.Mixin;

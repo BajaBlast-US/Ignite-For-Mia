@@ -22,7 +22,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.example.mixin.plugins;
+package net.bajablast.mixin.plugins;
 
 import java.util.List;
 import java.util.Set;
