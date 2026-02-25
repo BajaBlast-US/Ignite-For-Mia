@@ -1,0 +1,5 @@
+name: IgniteForMia
+version: 0.0.1
+main: net.bajablast.mixin.core.GameRuleTweaks
+description: MIA
+author: BajaBlast
