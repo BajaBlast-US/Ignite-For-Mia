@@ -13,7 +13,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 @Mixin(GameRules.class)
 public class GameRuleTweaks extends JavaPlugin {
 
-  @Inject(method = "<init>", at = @At("TAIL"))
+  @Inject(method = "<init>*", at = @At("TAIL"))
   private void forceKeepInventory(CallbackInfo ci) {
     ServerLevel level = (ServerLevel) (Object) this;
 

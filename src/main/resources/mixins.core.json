@@ -7,7 +7,7 @@
   "server": [
     "FallDamageTweak",
     "AllayLogicTweaks",
-    "BlockTweaks",
+    "HayBlockMixin",
     "VexLogicTweaks",
     "GameRuleTweaks"
   ]
